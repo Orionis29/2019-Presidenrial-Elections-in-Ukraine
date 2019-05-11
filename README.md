@@ -12,7 +12,7 @@ The csv files contain all the information that was published on the website righ
 -----------------------
 Round I Data:
 
-○ Округ	
+○ Округ\n	
 ○ № ВД	
 ○ 1.К-сть одержаних бюлетенів	
 ○ 2.К-сть виборців, внесених до списку	
